@@ -1,4 +1,5 @@
 # vs-demo-git
-Learning Git and Github 
+
+Learning Git and Github
 <br>
-Author : Vivek Shitkar
+Author : Vivek (New Author)
